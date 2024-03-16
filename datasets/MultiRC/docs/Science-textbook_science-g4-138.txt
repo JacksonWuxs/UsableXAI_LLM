@@ -1,0 +1,15 @@
+Conduction is the transfer of thermal energy .
+It occurs between objects or substances that are touching .
+Thermal conductors are materials that are good conductors of heat .
+Thermal insulators are materials that are poor conductors of heat .
+Both conductors and insulators have important uses .
+Convection is the transfer of thermal energy .
+This occurs as particles move within a fluid .
+The fluid may be a liquid or a gas .
+The particles within the fluid transfer energy by moving from warmer to cooler areas .
+They move in loops .
+These loops are called convection currents .
+Radiation is the transfer of thermal energy by waves .
+These waves can travel through empty space .
+When the waves reach objects , the heat is transferred to the objects .
+Radiation is how the Sun warms the Earths surface .

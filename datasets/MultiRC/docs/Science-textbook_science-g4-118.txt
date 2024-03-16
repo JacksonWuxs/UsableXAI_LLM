@@ -1,0 +1,18 @@
+Electricity can be very dangerous .
+To reduce the risk of injury , safety features are built into electric circuits and devices .
+You might have noticed some of these in your home .
+They include three - prong plugs , circuit breakers , and GFCI outlets .
+Each feature is described and illustrated in Table 1.4 .
+Electric Safety Feature Three - Prong Plug Description A three - prong plug is generally used on metal appli- ances .
+The two flat prongs carry the current .
+The round prong is for safety .
+It connects with a wire inside the outlet .
+This wire connects to the ground .
+By redirecting the current it can pass into the ground .
+The ground is where it can be harmlessly absorbed .
+Circuit Breaker A circuit breaker is another safety feature .
+The circuit breaker automatically opens a circuit if too much current flows through it .
+This could happen if too many electric devices are plugged in .
+It can also happen if there is an electric short .
+Once the problem is resolved , the circuit breaker can be switched back on .
+Once switched back on , the circuit is closed .

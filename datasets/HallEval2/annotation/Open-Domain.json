@@ -1,0 +1,2397 @@
+[
+  {
+    "id": 0,
+    "user_query": "What position on the Billboard Top 100 did Alison Moyet's late summer hit achieve?",
+    "chatgpt_response": "Alison Moyet's late summer hit did not reach the Billboard Top 100.",
+    "chatgpt_fact": [
+      "Alison Moyet's late summer hit did not reach the Billboard Top 100."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1,
+    "user_query": "What year did the British politician born in 1967 began to represent the Daventry in the UK House of Commons?",
+    "chatgpt_response": "The British politician born in 1967 began to represent Daventry in the UK House of Commons in the year 2010.",
+    "chatgpt_fact": [
+      "The British politician born in 1967 began to represent Daventry in the UK House of Commons in 2010."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2,
+    "user_query": "Which franchise was founded in 1978, Chuck E. Cheese's or Jet's Pizza?",
+    "chatgpt_response": "Chuck E. Cheese's franchise was founded in 1978.",
+    "chatgpt_fact": [
+      "Chuck E. Cheese's franchise was founded in 1978."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 43,
+    "user_query": "Munich and Bavarian language are spoken in what country?",
+    "chatgpt_response": "Munich and Bavarian language are spoken in Germany.",
+    "chatgpt_fact": [
+      "Munich is a language spoken in Germany.",
+      "Bavarian is a language spoken in Germany."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 105,
+    "user_query": "Who was the daughter of DFS co-founder and shareholder?",
+    "chatgpt_response": "The daughter of DFS co-founder and shareholder is Sharon Waxman.",
+    "chatgpt_fact": [
+      "Sharon Waxman is the daughter of a DFS co-founder and shareholder."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 115,
+    "user_query": "When was the model of Nokia phone announced which is the Nokia 3410 phone's successor?",
+    "chatgpt_response": "The model of Nokia phone announced as the successor to the Nokia 3410 phone was the Nokia 3510, which was announced on October 21, 2002.",
+    "chatgpt_fact": [
+      "The Nokia 3510 is the successor to the Nokia 3410 phone.",
+      "The Nokia 3510 was announced on October 21, 2002."
+    ],
+    "human_judge": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": 122,
+    "user_query": "Who was born first, Aaron Gillespie or Nathan Leone?",
+    "chatgpt_response": "Aaron Gillespie was born first.",
+    "chatgpt_fact": [
+      "Aaron Gillespie was born before Nathan Leone."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 213,
+    "user_query": "In addition to the airplane operated by ایران ایر تور‎, what other airplane was part of the 1993 Tehran mid-air collision?",
+    "chatgpt_response": "The other airplane involved in the 1993 Tehran mid-air collision was operated by CIS TransAVIA.",
+    "chatgpt_fact": [
+      "There was a mid-air collision in Tehran in 1993.",
+      "One of the airplanes involved was operated by ایران ایر تور‎.",
+      "The other airplane involved in the collision was operated by CIS TransAVIA."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 248,
+    "user_query": "What Northern Ireland actor and musician helped write the pop ballad \"I heard\"?",
+    "chatgpt_response": "The Northern Ireland actor and musician who helped write the pop ballad \"I heard\" is Jamie Dornan.",
+    "chatgpt_fact": [
+      "Jamie Dornan, a Northern Ireland actor and musician, helped write the pop ballad \"I heard\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 282,
+    "user_query": "María Sol Branz sailed in the games of which Olympiad?",
+    "chatgpt_response": "There is no record of a Maria Sol Branz participating in the Olympic Games. It's possible that she may have competed in a lesser-known event or a regional competition.",
+    "chatgpt_fact": [
+      "Maria Sol Branz did not participate in the Olympic Games."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 287,
+    "user_query": "How many Olympic gold medals have been won by a guitarist from American electronic rock band, \"Bad Things\"?",
+    "chatgpt_response": "As of September 2021, no member of the American electronic rock band \"Bad Things\" has won any Olympic gold medals.",
+    "chatgpt_fact": [
+      "As of September 2021, no member of the American electronic rock band \"Bad Things\" has won any Olympic gold medals."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 320,
+    "user_query": "What type of media does Radar Radio and Top Gun have in common?",
+    "chatgpt_response": "Both Radar Radio and Top Gun are associated with the medium of radio.",
+    "chatgpt_fact": [
+      "Radar Radio is associated with the medium of radio.",
+      "Top Gun is associated with the medium of radio."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 333,
+    "user_query": "Which merican voice actor involved in English dubs of Japanese anime as well as cartoons wrote  Iron Man: Rise of Technovore",
+    "chatgpt_response": "The American voice actor involved in English dubs of Japanese anime as well as cartoons who wrote \"Iron Man: Rise of Technovore\" is Brendan Burch.",
+    "chatgpt_fact": [
+      "Brendan Burch is an American voice actor.",
+      "Brendan Burch is involved in English dubs of Japanese anime.",
+      "Brendan Burch also engages in voice acting for cartoons.",
+      "Brendan Burch wrote \"Iron Man: Rise of Technovore\"."
+    ],
+    "human_judge": [
+      "false",
+      "true",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 368,
+    "user_query": "Michael Gandolfi wrote for which show starring Roseanne Barr?",
+    "chatgpt_response": "Michael Gandolfi did not write for any show starring Roseanne Barr.",
+    "chatgpt_fact": [
+      "Michael Gandolfi did not write for any show starring Roseanne Barr."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 376,
+    "user_query": "In what Nassau County did Nicholas Brandy build him and his wives estate.",
+    "chatgpt_response": "Nicholas Brandy, a fictional character, did not build an estate in any Nassau County as he does not exist in reality.",
+    "chatgpt_fact": [
+      "Nicholas Brandy is a fictional character.",
+      "Nicholas Brandy did not build an estate in Nassau County."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 380,
+    "user_query": "Which has more acts, Oberon or Le Villi?",
+    "chatgpt_response": "Oberon has more acts than Le Villi.",
+    "chatgpt_fact": [
+      "Oberon has more acts than Le Villi."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 389,
+    "user_query": "What was the psychiatrist's name that diagnosed the man, whom the 2015 Austrian thriller film titled Jack was about??",
+    "chatgpt_response": "The psychiatrist's name in the film \"Jack\" is Dr. Sophie Ritter.",
+    "chatgpt_fact": [
+      "In the 2015 Austrian thriller film \"Jack,\" a character named Dr. Sophie Ritter serves as a psychiatrist."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 397,
+    "user_query": "Which magazine was American owned, Bella or Parenting?",
+    "chatgpt_response": "Parenting magazine was American owned.",
+    "chatgpt_fact": [
+      "Parenting magazine was owned by an American entity."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 405,
+    "user_query": "What movie earned the actor who played twin brothers in Diamonds a nomination for the 1967 Academy Award for Best Supporting Actor?",
+    "chatgpt_response": "The movie that earned the actor who played twin brothers in Diamonds a nomination for the 1967 Academy Award for Best Supporting Actor is \"In Cold Blood\".",
+    "chatgpt_fact": [
+      "\"In Cold Blood\" earned a nomination for the 1967 Academy Award for Best Supporting Actor."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 430,
+    "user_query": "Who was a member of more music groups, Kenny Greene or David Coverdale?",
+    "chatgpt_response": "David Coverdale was a member of more music groups than Kenny Greene.",
+    "chatgpt_fact": [
+      "David Coverdale was a member of more music groups than Kenny Greene."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 441,
+    "user_query": "Gerald Jay Goldberg wrote a biography of the founder of what Pioneering superstation?",
+    "chatgpt_response": "Gerald Jay Goldberg wrote a biography of the founder of the Pioneering superstation WGN-TV.",
+    "chatgpt_fact": [
+      "Gerald Jay Goldberg wrote a biography of the founder of WGN-TV."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 443,
+    "user_query": "In what year did the singer of \"I'd Like To\" win a Grammy Award for Album of the Year?",
+    "chatgpt_response": "The singer of \"I'd Like To\" has not won a Grammy Award for Album of the Year.",
+    "chatgpt_fact": [
+      "The singer of \"I'd Like To\" has not won a Grammy Award for Album of the Year."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 502,
+    "user_query": "Golden Horseshoe Saloon is a venue that is located in a themed Disneyland-style park whose inspiration was a movie filmed in which New York city?",
+    "chatgpt_response": "The movie that inspired the themed Disneyland-style park where Golden Horseshoe Saloon is located is \"New York City in the 1890s\".",
+    "chatgpt_fact": [
+      "The Golden Horseshoe Saloon is a venue located in a Disneyland-style park that was inspired by the movie \"New York City in the 1890s\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 536,
+    "user_query": "The singer of Tomake Chai was a member od the parliament of India beginning in what year?",
+    "chatgpt_response": "The singer of the song \"Tomake Chai\" has not been a member of the parliament of India. As of now, there is no information suggesting that the singer had ever held a political position in India.",
+    "chatgpt_fact": [
+      "The singer of the song \"Tomake Chai\" has not been a member of the parliament of India.",
+      "There is no information that the singer of \"Tomake Chai\" held a political position in India."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 551,
+    "user_query": "The architect which designed the Moorish Revival mansion in Bridgeport, Connecticut was born in which year?",
+    "chatgpt_response": "The architect who designed the Moorish Revival mansion in Bridgeport, Connecticut was born in 1833.",
+    "chatgpt_fact": [
+      "The architect who designed the Moorish Revival mansion in Bridgeport, Connecticut was born in 1833."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 585,
+    "user_query": "Uncle Buck starred which actress who also had a part in Sleepless in Seattle?",
+    "chatgpt_response": "The actress who starred in Uncle Buck and also had a part in Sleepless in Seattle is Amy Madigan.",
+    "chatgpt_fact": [
+      "Amy Madigan starred in the movie Uncle Buck.",
+      "Amy Madigan also had a part in the movie Sleepless in Seattle."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 607,
+    "user_query": "Who did Young Seph release an album for in November 2013?",
+    "chatgpt_response": "Young Seph released an album for rapper Curren$y in November 2013.",
+    "chatgpt_fact": [
+      "Young Seph released an album in November 2013.",
+      "The album released by Young Seph was created for rapper Curren$y."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 702,
+    "user_query": "While in high school Michael DeWayne Tait met a Christian hip hop recording artist, music producer, songwriter and what?",
+    "chatgpt_response": "While in high school, Michael DeWayne Tait met a Christian hip hop recording artist, music producer, songwriter, and entrepreneur.",
+    "chatgpt_fact": [
+      "Michael DeWayne Tait was in high school when he met a Christian hip hop recording artist.",
+      "The person Michael DeWayne Tait met was a music producer.",
+      "The person Michael DeWayne Tait met was also a songwriter.",
+      "The person Michael DeWayne Tait met was additionally an entrepreneur."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 728,
+    "user_query": "Year of the Savage included production duties by which record producer from Miami?",
+    "chatgpt_response": "The record producer from Miami who worked on Year of the Savage is Ronny J.",
+    "chatgpt_fact": [
+      "Ronny J, a record producer from Miami, worked on Year of the Savage."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 729,
+    "user_query": "Which building has more storeys, 56 Leonard Street, or 80 South Street?",
+    "chatgpt_response": "56 Leonard Street has more storeys than 80 South Street.",
+    "chatgpt_fact": [
+      "56 Leonard Street has more storeys than 80 South Street."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 732,
+    "user_query": "Mike Hart played for the American League Central team that played its games in what stadium from 1961 to 1981?",
+    "chatgpt_response": "Mike Hart played for the American League Central team that played its games in Metropolitan Stadium from 1961 to 1981.",
+    "chatgpt_fact": [
+      "Mike Hart was a player in the American League Central team.",
+      "The American League Central team played its games in Metropolitan Stadium from 1961 to 1981."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 740,
+    "user_query": "How many kilometers long is the cyclist/pedestrian path that accesses the Melbourne Zoo?",
+    "chatgpt_response": "The cyclist/pedestrian path that accesses the Melbourne Zoo is approximately 2 kilometers long.",
+    "chatgpt_fact": [
+      "The cyclist/pedestrian path that accesses the Melbourne Zoo is approximately 2 kilometers long."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 744,
+    "user_query": "What law was broken resulting in the first US felony conviction of an American computer scientist born in 1965 for the distribution of a computer worm?",
+    "chatgpt_response": "The first US felony conviction of an American computer scientist born in 1965 for the distribution of a computer worm was due to violating the Computer Fraud and Abuse Act (CFAA).",
+    "chatgpt_fact": [
+      "The first US felony conviction of an American computer scientist born in 1965 for the distribution of a computer worm was due to violating the Computer Fraud and Abuse Act (CFAA)."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 777,
+    "user_query": "What was the reason for the fund founded by the British financier widely regarded as the \"father of modern philanthropy?\"",
+    "chatgpt_response": "The fund founded by the British financier widely regarded as the \"father of modern philanthropy\" was established with the intention of improving public health. His name was Sir John Hargrave, and he founded the Popular Health Movement (PHM) in 1919. The fund aimed to support research on health issues, educate the public about preventive measures, and promote healthier living conditions. Hargrave believed that by investing in public health initiatives, society could prevent illness, improve overall well-being, and ultimately reduce poverty.",
+    "chatgpt_fact": [
+      "Sir John Hargrave, a British financier, is widely regarded as the \"father of modern philanthropy\".",
+      "Sir John Hargrave founded the Popular Health Movement (PHM) in 1919.",
+      "The PHM fund was established with the intention of improving public health.",
+      "The PHM fund supports health research, education on preventive measures, and promotion of healthier living conditions.",
+      "Hargrave believed that investing in public health initiatives can prevent illness, improve overall well-being, and reduce poverty."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 796,
+    "user_query": "Which canton shares a border with Basei-Landschaff and holds a large railways system?",
+    "chatgpt_response": "The canton that shares a border with Basei-Landschaff and holds a large railway system is Canton Baliris.",
+    "chatgpt_fact": [
+      "Canton Baliris shares a border with Basei-Landschaff.",
+      "Canton Baliris has a large railway system."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 828,
+    "user_query": "The Italian romance drama Mahesh Bhatt compared \"Jism 2\" to came out in what year?",
+    "chatgpt_response": "\"Jism 2,\" the Italian romance drama, was released in the year 2012.",
+    "chatgpt_fact": [
+      "The Italian romance drama \"Jism 2\" was released in the year 2012."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 833,
+    "user_query": "The chairman of the House Ways and Means Committee is a U.S. Representative for what Texas district?",
+    "chatgpt_response": "The chairman of the House Ways and Means Committee is a U.S. Representative for the Texas 24th Congressional District.",
+    "chatgpt_fact": [
+      "The chairman of the House Ways and Means Committee serves as a U.S. Representative for the Texas 24th Congressional District."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 843,
+    "user_query": "The actress, who stars in \"The Death and Life of John F. Donovan,\" made her film debut in which 2007 Wes Anderson film?",
+    "chatgpt_response": "The actress who stars in \"The Death and Life of John F. Donovan\" made her film debut in the 2007 Wes Anderson film \"Charlie Wilson's War.\"",
+    "chatgpt_fact": [
+      "The actress starred in the film \"The Death and Life of John F. Donovan.\"",
+      "She made her film debut in 2007.",
+      "Her debut film was directed by Wes Anderson.",
+      "The name of her debut film is \"Charlie Wilson's War.\""
+    ],
+    "human_judge": [
+      "false",
+      "true",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 855,
+    "user_query": "What is the name of the Saturday Farm actor often referred to as \"Colonel Dick\"?",
+    "chatgpt_response": "The Saturday Farm actor often referred to as \"Colonel Dick\" is Richard Stilgoe.",
+    "chatgpt_fact": [
+      "Richard Stilgoe is often referred to as \"Colonel Dick\" in Saturday Farm."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 858,
+    "user_query": "What year was Victoria first used as a naming convention before the Fairlane Crown Victoria Skyliner in 1954?",
+    "chatgpt_response": "Victoria was first used as a naming convention before the Fairlane Crown Victoria Skyliner in 1954 in the year 1932. The Ford Victoria was introduced as a model in 1932, well before the Fairlane Crown Victoria Skyliner.",
+    "chatgpt_fact": [
+      "Victoria was used as a naming convention before the Fairlane Crown Victoria Skyliner in 1954.",
+      "The first time Victoria was used as a naming convention was in the year 1932.",
+      "The Ford Victoria was introduced as a model in 1932."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 894,
+    "user_query": "The Bohemian Girl starred which Welsh composer and actor?",
+    "chatgpt_response": "The Bohemian Girl starred David Lloyd-Jones, a Welsh composer and actor.",
+    "chatgpt_fact": [
+      "David Lloyd-Jones is a Welsh composer and actor.",
+      "David Lloyd-Jones starred in The Bohemian Girl."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 910,
+    "user_query": "On what street does the parent corporation of Smile have its headquarters?",
+    "chatgpt_response": "The parent corporation of Smile, a French-based dental company, has its headquarters located at 9 Rue du Quatre Septembre, Paris, France.",
+    "chatgpt_fact": [
+      "Smile is a French-based dental company.",
+      "The parent corporation of Smile is headquartered in Paris, France.",
+      "The address of the headquarters of the parent corporation of Smile is 9 Rue du Quatre Septembre."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 961,
+    "user_query": "Which album, named after a studio, was put out by the singer who also put out the album \"On My One\"?",
+    "chatgpt_response": "The album named after a studio that was put out by the singer who also released the album \"On My One\" is \"Jupiter Calling\".",
+    "chatgpt_fact": [
+      "The singer who released the album \"On My One\" also released an album named \"Jupiter Calling\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 969,
+    "user_query": "Who was born first, Ben Moore of Audra McDonald?",
+    "chatgpt_response": "Ben Moore was born first.",
+    "chatgpt_fact": [
+      "Ben Moore was born before Audra McDonald."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 993,
+    "user_query": "Which  American actress and former model played the main character in the television movie based on the 1985 biography Elvis and Me?",
+    "chatgpt_response": "The American actress and former model who played the main character in the television movie based on the 1985 biography \"Elvis and Me\" is Dale Midkiff.",
+    "chatgpt_fact": [
+      "Dale Midkiff, an American actress and former model, played the main character in the television movie based on the 1985 biography \"Elvis and Me\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1003,
+    "user_query": "Joshua T. Mendell is a faculty member of the Genetic Medicine Institute named after the internist who proposed mapping what part of the human body?",
+    "chatgpt_response": "Joshua T. Mendell is not a faculty member of the Genetic Medicine Institute. According to my knowledge, I could not find any information related to Joshua T. Mendell being a faculty member there or his association with the institute. It is possible that there might be some confusion or outdated information regarding this.",
+    "chatgpt_fact": [
+      "Joshua T. Mendell is not a faculty member of the Genetic Medicine Institute."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1010,
+    "user_query": "The episode  from the TV series \"The Simpsons,\"  that was intended to be the season premiere had which show runner?",
+    "chatgpt_response": "The episode from the TV series \"The Simpsons\" that was intended to be the season premiere had show runner Al Jean.",
+    "chatgpt_fact": [
+      "Al Jean was the show runner for the season premiere episode of \"The Simpsons.\""
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1029,
+    "user_query": "This English artist is also known as being the teacher of Hilda Margery Clarke.",
+    "chatgpt_response": "The English artist known as the teacher of Hilda Margery Clarke is Bernard Meninsky.",
+    "chatgpt_fact": [
+      "Bernard Meninsky was the teacher of the English artist Hilda Margery Clarke."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1031,
+    "user_query": "What is another name for crime family which Frank \"Chee-Chee\" DeMayo became the crime boss of?",
+    "chatgpt_response": "Another name for the crime family that Frank \"Chee-Chee\" DeMayo became the crime boss of is the DeMayo Crime Family.",
+    "chatgpt_fact": [
+      "Frank \"Chee-Chee\" DeMayo became the crime boss of the DeMayo Crime Family."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1044,
+    "user_query": "Which tower in New York City was taller: 500 Fifth Avenue, or the Latting Observatory?",
+    "chatgpt_response": "The Latting Observatory was taller than 500 Fifth Avenue.",
+    "chatgpt_fact": [
+      "The Latting Observatory was taller than 500 Fifth Avenue."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1051,
+    "user_query": "The Rieder Automatic Rifle and the Lee-Enfield Rifle were based off what variant of rifle?",
+    "chatgpt_response": "The Rieder Automatic Rifle was based off the Lee-Enfield Rifle.",
+    "chatgpt_fact": [
+      "The Rieder Automatic Rifle was based off the Lee-Enfield Rifle."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1059,
+    "user_query": "The Fourth Dimension is dedicated to the author of which satirical novella?",
+    "chatgpt_response": "The Fourth Dimension is dedicated to the author of the satirical novella \"Flatland: A Romance of Many Dimensions.\"",
+    "chatgpt_fact": [
+      "\"Flatland: A Romance of Many Dimensions\" is a satirical novella, and the book \"The Fourth Dimension\" is dedicated to its author."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1114,
+    "user_query": "Where was the Danny Boyle movie that starred Paterson Joseph filmed?",
+    "chatgpt_response": "The Danny Boyle movie that starred Paterson Joseph was filmed in the United Kingdom. The specific locations used for filming have not been publicly disclosed.",
+    "chatgpt_fact": [
+      "The movie directed by Danny Boyle and starring Paterson Joseph was filmed in the United Kingdom."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1131,
+    "user_query": "Advanced multi-mission operations system is created by the Interplanetary Network Directorate, which is a division of this federally funded research and development center and NASA field center which is located in which city? (One word)",
+    "chatgpt_response": "Pasadena.",
+    "chatgpt_fact": [
+      "The NASA field center is located in Pasadena."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1178,
+    "user_query": "The Riverport Railroad operates this Army Depot Track, located on the eastern bank of which river?",
+    "chatgpt_response": "The question does not provide the specific location of the Army Depot Track operated by the Riverport Railroad. Therefore, I cannot determine the exact river on whose eastern bank the depot track is located.",
+    "chatgpt_fact": [
+      "The Riverport Railroad operates an Army Depot Track."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1236,
+    "user_query": "when is the retired Italian boxer and actor who won the  semifinals in1960 Olympics born",
+    "chatgpt_response": "The retired Italian boxer and actor who won the semifinals in the 1960 Olympics is born on September 9, 1932.",
+    "chatgpt_fact": [
+      "The retired Italian boxer and actor who won the semifinals in the 1960 Olympics was born on September 9, 1932."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1254,
+    "user_query": "What company in St. Paul, Minnesota is Allan L. Schuman the former CEO of?",
+    "chatgpt_response": "Allan L. Schuman is the former CEO of the Certified On-Site Services Inc.",
+    "chatgpt_fact": [
+      "Allan L. Schuman was the former CEO of Certified On-Site Services Inc.",
+      "Certified On-Site Services Inc is a company based in St. Paul, Minnesota."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1276,
+    "user_query": "Of the battleship recommissioned as a result of the nuclear-powered missile cruiser whose named after a Bolshevik hero, how many were completed?",
+    "chatgpt_response": "There were two battleships recommissioned as a result of the nuclear-powered missile cruiser named after a Bolshevik hero.",
+    "chatgpt_fact": [
+      "Two battleships were recommissioned as a result of the nuclear-powered missile cruiser named after a Bolshevik hero."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1314,
+    "user_query": "Maeion M Ganey organized what kind of competition where specific kinds of boxing gloves are awarded?",
+    "chatgpt_response": "Maeion M Ganey organized a competition where specific kinds of boxing gloves, such as the Winning brand gloves, are awarded.",
+    "chatgpt_fact": [
+      "Maeion M Ganey organized a competition involving the awarding of specific kinds of boxing gloves.",
+      "The Winning brand gloves are awarded in the competition organized by Maeion M Ganey."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 1350,
+    "user_query": "Who was featured as guest in Trunk Muzik?",
+    "chatgpt_response": "There are no guest features on Yelawolf's mixtape \"Trunk Muzik.\"",
+    "chatgpt_fact": [
+      "Yelawolf's mixtape \"Trunk Muzik\" does not have any guest features."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1358,
+    "user_query": "Greg Taylor was the screenwriter for what 1995 film?",
+    "chatgpt_response": "There is no notable screenwriter named Greg Taylor associated with any film released in 1995.",
+    "chatgpt_fact": [
+      "There is no notable screenwriter named Greg Taylor associated with any film released in 1995."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1362,
+    "user_query": "Which periodical was published more frequently, Sing Out! or Nuestro?",
+    "chatgpt_response": "Sing Out! was published more frequently than Nuestro.",
+    "chatgpt_fact": [
+      "Sing Out! was published more frequently than Nuestro."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1377,
+    "user_query": "What is another name for the unincorporated community in Putnam Township that is just a few miles southeast of the junction of M-106 and M-36?",
+    "chatgpt_response": "The unincorporated community in Putnam Township, just a few miles southeast of the junction of M-106 and M-36, is called Gregory.",
+    "chatgpt_fact": [
+      "Gregory is an unincorporated community in Putnam Township.",
+      "Gregory is located just a few miles southeast of the junction of M-106 and M-36."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1385,
+    "user_query": "The Republican who introduced Global Food Security Act of 2016 was nominated by what president to become a representative to the United Nations General Assembly?",
+    "chatgpt_response": "The Republican who introduced the Global Food Security Act of 2016, Elton Gallegly, was nominated by President George W. Bush to become a representative to the United Nations General Assembly.",
+    "chatgpt_fact": [
+      "Elton Gallegly is a Republican who introduced the Global Food Security Act of 2016.",
+      "Elton Gallegly was nominated to become a representative to the United Nations General Assembly.",
+      "The president who nominated Elton Gallegly to the UN General Assembly was George W. Bush."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1400,
+    "user_query": "What place did Arsenal finish in the first year with the club's longest serving manager?",
+    "chatgpt_response": "In the first year with Arsenal's longest-serving manager, the club finished in 6th place.",
+    "chatgpt_fact": [
+      "Arsenal's longest-serving manager led the club to a 6th place finish in their first year."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1421,
+    "user_query": "Who is the younger brother of the recorder of Six Strings Down",
+    "chatgpt_response": "The younger brother of the recorder of \"Six Strings Down\" is Jimmie Vaughan.",
+    "chatgpt_fact": [
+      "Jimmie Vaughan is the younger brother of the recorder of \"Six Strings Down\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1444,
+    "user_query": "Who is older, Sam Bradford or David Johnson?",
+    "chatgpt_response": "Sam Bradford is older than David Johnson.",
+    "chatgpt_fact": [
+      "Sam Bradford is older than David Johnson."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1450,
+    "user_query": "Nike Air Max was originally designed by Nike's Vice President for Design and Special Projects, who oversees what?",
+    "chatgpt_response": "Nike's Vice President for Design and Special Projects oversees various responsibilities related to the design and special projects divisions within the company. This includes managing and directing the design process for various Nike products, providing creative direction to design teams, and ensuring the execution of special projects aligns with Nike's brand vision and strategy. The Vice President is responsible for leading and collaborating with other teams, such as product management, marketing, research and development, and manufacturing, to drive innovation, customer satisfaction, and business growth. They may also be involved in identifying opportunities for collaboration with external partners and fostering relationships within the design community.",
+    "chatgpt_fact": [
+      "The Vice President for Design and Special Projects at Nike manages and directs the design process for various Nike products.",
+      "They also provide creative direction to design teams and ensure the execution of special projects aligns with Nike's brand vision and strategy.",
+      "Their role involves working with other teams like product management, marketing, research and development, and manufacturing.",
+      "A part of their job is to drive innovation, customer satisfaction, and business growth at Nike.",
+      "The Vice President may be involved in identifying collaboration opportunities with external partners and fostering relationships within the design community."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1456,
+    "user_query": "What physician and biologist became well-known for his work in a modernist movement in painting, originating in Germany at the beginning of the 20th century",
+    "chatgpt_response": "The physician and biologist who became well-known for his work in a modernist movement in painting, originating in Germany at the beginning of the 20th century, is Wilhelm Reich.",
+    "chatgpt_fact": [
+      "Wilhelm Reich was a physician and biologist known for his work in a modernist movement in painting that originated in Germany at the beginning of the 20th century."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1460,
+    "user_query": "Who was born first, Frederick King Keller or Jacques Tourneur?",
+    "chatgpt_response": "Frederick King Keller was born first.",
+    "chatgpt_fact": [
+      "Frederick King Keller was born before Jacques Tourneur."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1480,
+    "user_query": "Someday at Christmas was an album that contained a collaboration with the singer who has been involved with a cappella music since what year?",
+    "chatgpt_response": "The album \"Someday at Christmas\" featured a collaboration with the singer who has been involved with a cappella music since 1984.",
+    "chatgpt_fact": [
+      "\"Someday at Christmas\" is an album that includes a collaboration with a singer.",
+      "The featured singer on the album \"Someday at Christmas\" has been involved with a cappella music since 1984."
+    ],
+    "human_judge": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": 1482,
+    "user_query": "Which actress starring in Prince Valiant started her career as a child model?",
+    "chatgpt_response": "Kathleen Burke",
+    "chatgpt_fact": [
+      "Kathleen Burke started her career as a child model."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1501,
+    "user_query": "Texas A&M's Auggies are led by a third-year head coach who used to be the head coach where?",
+    "chatgpt_response": "Texas A&M's Auggies are led by a third-year head coach who used to be the head coach at Texas State.",
+    "chatgpt_fact": [
+      "The third-year head coach of Texas A&M's Auggies used to be the head coach at Texas State."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1540,
+    "user_query": "Punch and Judy were a pair of dogs who received a bronze medallion bearing what words?",
+    "chatgpt_response": "\"Punch and Judy, faithful companions forever.\"",
+    "chatgpt_fact": [
+      "Punch and Judy were a pair of dogs.",
+      "Punch and Judy received a bronze medallion.",
+      "The bronze medallion bore the words \"Punch and Judy, faithful companions forever.\""
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1660,
+    "user_query": "Nemattanew served as a close adviser to what paramount chief whose name meant \"He whose soul is White\"?",
+    "chatgpt_response": "Nemattanew served as a close adviser to the paramount chief whose name meant \"He whose soul is White\" is James Cameron Sr., the paramount chief of the Bear Clan of the Seneca Nation.",
+    "chatgpt_fact": [
+      "Nemattanew served as a close adviser to James Cameron Sr.",
+      "James Cameron Sr.'s name meant \"He whose soul is White\".",
+      "James Cameron Sr. was the paramount chief of the Bear Clan of the Seneca Nation."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1661,
+    "user_query": "This more ballad-like global hit was written by Bob Geldof and was the band's second what?",
+    "chatgpt_response": "The more ballad-like global hit written by Bob Geldof served as the band's second single.",
+    "chatgpt_fact": [
+      "The global hit was composed in a ballad-like style.",
+      "This song was written by Bob Geldof.",
+      "The song was the band's second single."
+    ],
+    "human_judge": [
+      "false",
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": 1674,
+    "user_query": "What award did a car win, where in the United Kingdom, between 1991 and 1998 an advertisement which starred Audrey Hepburn and Hugh Griffin was made?",
+    "chatgpt_response": "The car that won an award in the United Kingdom between 1991 and 1998 was (the) Fiat Cinquecento. The advertisement featuring Audrey Hepburn and Hugh Griffin was made for the Fiat Cinquecento, and it won the \"Car of the Year\" award during that period.",
+    "chatgpt_fact": [
+      "Between 1991 and 1998, Fiat Cinquecento won an award in the United Kingdom.",
+      "Audrey Hepburn and Hugh Griffin starred in an advertisement for Fiat Cinquecento.",
+      "Fiat Cinquecento won the \"Car of the Year\" award in the United Kingdom between 1991 and 1998."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1685,
+    "user_query": "Which band was known for having an actual number of EPs, Bedhead or Rhythm Corps?",
+    "chatgpt_response": "Bedhead is the band that was known for having an actual number of EPs.",
+    "chatgpt_fact": [
+      "The band Bedhead is known for having an actual number of EPs."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1699,
+    "user_query": "What is the common feature of plants from the genus Bulnesia and Gentianopsis?",
+    "chatgpt_response": "The common feature of plants from the genus Bulnesia and Gentianopsis is that they both belong to the family Gentianaceae.",
+    "chatgpt_fact": [
+      "Plants from the genus Bulnesia and Gentianopsis belong to the family Gentianaceae."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1700,
+    "user_query": "Who was the founder of the university where Rufus Flint conducted early Central American biodiversity studies?",
+    "chatgpt_response": "The founder of the university where Rufus Flint conducted early Central American biodiversity studies was Alexander von Humboldt.",
+    "chatgpt_fact": [
+      "Alexander von Humboldt was the founder of the university where Rufus Flint conducted early Central American biodiversity studies."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1712,
+    "user_query": "When was the band formed whose debut album was Salvation Town ?",
+    "chatgpt_response": "The band formed whose debut album was Salvation Town is Rancid.",
+    "chatgpt_fact": [
+      "The band known as Rancid released the debut album, Salvation Town."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 1728,
+    "user_query": "Which plant can be found farther south in South America, Plumeria or Maihuenia?",
+    "chatgpt_response": "Maihuenia can be found farther south in South America.",
+    "chatgpt_fact": [
+      "The plant Maihuenia can be found farther south in South America than Plumeria."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1788,
+    "user_query": "What is Sam Shepard's character in the 2000 film Hamlet is called in the stage directions of the play?",
+    "chatgpt_response": "In the stage directions of the play, Sam Shepard's character in the 2000 film Hamlet is referred to as \"Ghost.\"",
+    "chatgpt_fact": [
+      "In the 2000 film Hamlet, Sam Shepard's character is referred to as \"Ghost\" in the stage directions of the play."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1797,
+    "user_query": "Which university has more campuses, University of Louisiana at Lafayette or University of Massachusetts Dartmouth?",
+    "chatgpt_response": "The University of Louisiana at Lafayette has more campuses than the University of Massachusetts Dartmouth.",
+    "chatgpt_fact": [
+      "The University of Louisiana at Lafayette has more campuses than the University of Massachusetts Dartmouth."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1813,
+    "user_query": "This English singer-songwriter's  first three studio albums are experiments concocted with a  multimedia artist who performs in what?",
+    "chatgpt_response": "This English singer-songwriter's first three studio albums are experiments concocted with a multimedia artist who performs in theatrical shows involving visuals and performance art.",
+    "chatgpt_fact": [
+      "The multimedia artist involved in these albums performs in theatrical shows.",
+      "The multimedia artist's performances incorporate visuals and performance art."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 1823,
+    "user_query": "What title was contested by Naseem Hamed and a boxer born in 1967?",
+    "chatgpt_response": "The title contested by Naseem Hamed and a boxer born in 1967 was the WBO Featherweight title.",
+    "chatgpt_fact": [
+      "Naseem Hamed contested for the WBO Featherweight title against a boxer born in 1967."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1838,
+    "user_query": "Miss Kentucky County Fair 2004 won which pageant that also included the first woman of Asian descent to win the Miss Utah USA title?",
+    "chatgpt_response": "Miss Kentucky County Fair 2004 won the Miss Kentucky USA pageant.",
+    "chatgpt_fact": [
+      "The title holder of Miss Kentucky County Fair 2004 won the Miss Kentucky USA pageant."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1839,
+    "user_query": "Which park is bigger, Timanfaya National Park or Garajonay National Park?",
+    "chatgpt_response": "Garajonay National Park is bigger than Timanfaya National Park.",
+    "chatgpt_fact": [
+      "Garajonay National Park is bigger than Timanfaya National Park."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1841,
+    "user_query": "During what battle was James Hill attached with the later Governor of Gibraltar and Malta?",
+    "chatgpt_response": "James Hill served during the Battle of Waterloo.",
+    "chatgpt_fact": [
+      "James Hill was involved in the Battle of Waterloo."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1875,
+    "user_query": "Which fortune 500 company that WLS Stamping supplies to is headquartered in Berlin and Munich?",
+    "chatgpt_response": "There is no Fortune 500 company headquartered in both Berlin and Munich.",
+    "chatgpt_fact": [
+      "No Fortune 500 company is headquartered in both Berlin and Munich."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1924,
+    "user_query": "Who has a longer full name, Hans Schlegel or Gerhard Thiele?",
+    "chatgpt_response": "Gerhard Thiele has a longer full name.",
+    "chatgpt_fact": [
+      "Gerhard Thiele has a longer full name than Hans Schlegel."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 1943,
+    "user_query": "Which American heir founded the Eighteenth Street Lounge Music record label?",
+    "chatgpt_response": "The American heir who founded the Eighteenth Street Lounge Music record label is Eric Hilton.",
+    "chatgpt_fact": [
+      "Eric Hilton, an American heir, founded the Eighteenth Street Lounge Music record label."
+    ],
+    "human_judge": [
+      "true"
+    ]
+  },
+  {
+    "id": 2016,
+    "user_query": "Which genus has only one specy in it, Petteria or Malcolmia?",
+    "chatgpt_response": "The genus Petteria has only one species in it.",
+    "chatgpt_fact": [
+      "The genus Petteria has only one species."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2020,
+    "user_query": "Last Child and Hole are both what?",
+    "chatgpt_response": "Last Child and Hole are both rock bands.",
+    "chatgpt_fact": [
+      "Last Child and Hole are both rock bands."
+    ],
+    "human_judge": [
+      "true"
+    ]
+  },
+  {
+    "id": 2046,
+    "user_query": "What band issued it's compilation album featuring \"Get Back\" on the 30th anniversary of the band's break-up?",
+    "chatgpt_response": "The Beatles",
+    "chatgpt_fact": [
+      "The Beatles issued a compilation album featuring \"Get Back\" on the 30th anniversary of the band's break-up."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2058,
+    "user_query": "Whose character was Livai Soprano from ,\"The Sopranos\" and also appeared on a live telecast, \"The Philco Television Playhouse?\"",
+    "chatgpt_response": "The character Livai Soprano from \"The Sopranos\" was portrayed by James Gandolfini. James Gandolfini also appeared on a live telecast of \"The Philco Television Playhouse\" in his early acting career.",
+    "chatgpt_fact": [
+      "The character Livai Soprano from \"The Sopranos\" was portrayed by James Gandolfini.",
+      "James Gandolfini appeared on a live telecast of \"The Philco Television Playhouse\" in his early acting career."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2062,
+    "user_query": "In which city is the headquarters for the school district that has the westernmost and largest island in the Near Islands group of Aleutian Islands of Alaska within its physical boundaries?",
+    "chatgpt_response": "The headquarters for the school district that has the westernmost and largest island in the Near Islands group of Aleutian Islands of Alaska within its physical boundaries is Unalaska.",
+    "chatgpt_fact": [
+      "The headquarters for the school district that has the westernmost and largest island in the Near Islands group of Aleutian Islands of Alaska is in Unalaska."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2082,
+    "user_query": "On which subject did Amelia Sarah Levetus give a lecture at the University of Vienna in the late 19th century that concerns origins and history of cooperatives that began with the application of cooperative principles to business organization?",
+    "chatgpt_response": "Amelia Sarah Levetus gave a lecture at the University of Vienna in the late 19th century on the subject of the origins and history of cooperatives, specifically focusing on their application to business organization.",
+    "chatgpt_fact": [
+      "Amelia Sarah Levetus gave a lecture at the University of Vienna in the late 19th century.",
+      "The subject of Amelia Sarah Levetus's lecture was the origins and history of cooperatives.",
+      "The focus of her lecture was the application of cooperative principles to business organization."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 2083,
+    "user_query": "What is the year that both Gauhar Ali and Iftikhar Ahmed were both named man of the match?",
+    "chatgpt_response": "Gauhar Ali and Iftikhar Ahmed have never been named joint man of the match in any year.",
+    "chatgpt_fact": [
+      "Gauhar Ali and Iftikhar Ahmed have never been named joint man of the match in any year."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2104,
+    "user_query": "What star of Live Free or Die is well known for The War at Home?",
+    "chatgpt_response": "Charlie Hunnam is the star of Live Free or Die and is well known for his role in the TV series The War at Home.",
+    "chatgpt_fact": [
+      "Charlie Hunnam is a star of Live Free or Die.",
+      "Charlie Hunnam has a notable role in the TV series The War at Home."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2130,
+    "user_query": "Forum Theater is located on the corner of which street that runs parallel to the Yarra River?",
+    "chatgpt_response": "Forum Theater is located on the corner of Flinders Street.",
+    "chatgpt_fact": [
+      "Forum Theater is located on Flinders Street."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2133,
+    "user_query": "Which city has a larger population, Langzhong or Guangyuan?",
+    "chatgpt_response": "As of 2021, the city of Guangyuan has a larger population than Langzhong. The estimated population of Guangyuan is around 3.9 million, while Langzhong's population is estimated to be around 834,000.",
+    "chatgpt_fact": [
+      "As of 2021, Guangyuan has a larger population than Langzhong.",
+      "The estimated population of Guangyuan is around 3.9 million.",
+      "The population of Langzhong is estimated to be around 834,000."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2157,
+    "user_query": "Elle and Nesf El Donya are both what?",
+    "chatgpt_response": "Both Elle and Nesf El Donya are names.",
+    "chatgpt_fact": [
+      "Elle and Nesf El Donya are both names."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2165,
+    "user_query": "Worker: Which is the southernmost canal, the Alexandria Canal or the Schuylkill Canal?",
+    "chatgpt_response": "The southernmost canal between the Alexandria Canal and the Schuylkill Canal is the Alexandria Canal.",
+    "chatgpt_fact": [
+      "The Alexandria Canal is located further south than the Schuylkill Canal."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 2183,
+    "user_query": "What German poet's widow was mentor to Brigitte Klump?",
+    "chatgpt_response": "The German poet's widow who was a mentor to Brigitte Klump is Ingeborg Bachmann.",
+    "chatgpt_fact": [
+      "Ingeborg Bachmann was a German poet.",
+      "Brigitte Klump had a mentor.",
+      "Ingeborg Bachmann was a mentor to Brigitte Klump."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2204,
+    "user_query": "The Future of Food and Agee are both what?",
+    "chatgpt_response": "The Future of Food and Agee are both topics or subjects.",
+    "chatgpt_fact": [
+      "The Future of Food and Agee are both referred to as topics or subjects."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2208,
+    "user_query": "Which flowering plant is related to a popular weed used to make tea, Catananche or Berlandiera?",
+    "chatgpt_response": "The flowering plant related to a popular weed used to make tea is Berlandiera.",
+    "chatgpt_fact": [
+      "Berlandiera is a flowering plant related to a popular weed used to make tea."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2215,
+    "user_query": "Who are the retellings of classic stories that McLoughlin Bros., Inc. specialized in named for?",
+    "chatgpt_response": "The retellings of classic stories that McLoughlin Bros., Inc. specialized in were named after the Grimms Brothers.",
+    "chatgpt_fact": [
+      "The retellings of classic stories by McLoughlin Bros., Inc. were named after the Grimms Brothers."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2222,
+    "user_query": "The Flint Estate is a historic summer estate in what New Hampshire county?",
+    "chatgpt_response": "The Flint Estate is located in Hillsborough County, New Hampshire.",
+    "chatgpt_fact": [
+      "The Flint Estate is a summer estate.",
+      "The Flint Estate is located in Hillsborough County, New Hampshire."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 2291,
+    "user_query": "Both Kele Okereke and Faris Badwan played for bands, one was a vocalist. What did the other do?",
+    "chatgpt_response": "If Kele Okereke was the vocalist, then Faris Badwan must have played an instrument in their respective bands.",
+    "chatgpt_fact": [
+      "Faris Badwan played an instrument in a band."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2303,
+    "user_query": "WHO WAS THE ECCENTRIC AMERICAN BUSINESS MAN THAT WAS THE FOUNDER OF THE AIRLINE ORIGINALLY NAMED AIR WEST",
+    "chatgpt_response": "The eccentric American businessman who was the founder of the airline originally named Air West was Rollin W. King.",
+    "chatgpt_fact": [
+      "Rollin W. King was the founder of the airline originally named Air West."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2335,
+    "user_query": "Which district is located in a city with a longer name, Fengfeng Mining District or Nankang District, Ganzhou?",
+    "chatgpt_response": "Nankang District, Ganzhou is located in a city with a longer name.",
+    "chatgpt_fact": [
+      "Nankang District is located in the city of Ganzhou."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2338,
+    "user_query": "Did Susan Hill or Jane Gardam win more literary awards?",
+    "chatgpt_response": "Jane Gardam has won more literary awards than Susan Hill.",
+    "chatgpt_fact": [
+      "Jane Gardam has won more literary awards than Susan Hill."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 2353,
+    "user_query": "Who directed the 2014 film starring featuring Cameron Monaghan as Asher?",
+    "chatgpt_response": "The 2014 film starring Cameron Monaghan as Asher was directed by Michael Matteo Rossi. The film is titled \"Asher\".",
+    "chatgpt_fact": [
+      "The 2014 film \"Asher\" features Cameron Monaghan in the starring role.",
+      "Michael Matteo Rossi directed the 2014 film \"Asher\"."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2356,
+    "user_query": "What was the birth name of the lead vocalist for the band that released \"New Rose\" in 1976?",
+    "chatgpt_response": "The birth name of the lead vocalist for the band that released \"New Rose\" in 1976 is Brian James.",
+    "chatgpt_fact": [
+      "The lead vocalist for the band that released \"New Rose\" in 1976 is Brian James."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2406,
+    "user_query": "On what continent can one find Synaphe infumatalis?",
+    "chatgpt_response": "Synaphe infumatalis, commonly known as the black geometrid moth, can be found on the continent of North America.",
+    "chatgpt_fact": [
+      "Synaphe infumatalis is also known as the black geometrid moth.",
+      "The black geometrid moth can be found on the continent of North America."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2434,
+    "user_query": "The king who married Yolande of Brienne was a member of which dynasty?",
+    "chatgpt_response": "The king who married Yolande of Brienne was a member of the House of Aragon.",
+    "chatgpt_fact": [
+      "The king who married Yolande of Brienne was a member of the House of Aragon."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2435,
+    "user_query": "What was introduced to the Pacific Games in 1979 that the Vanuatu national cricket team participated in?",
+    "chatgpt_response": "The sport of cricket was introduced to the Pacific Games in 1979, and the Vanuatu national cricket team participated in it.",
+    "chatgpt_fact": [
+      "Cricket was introduced to the Pacific Games in 1979.",
+      "The Vanuatu national cricket team participated in the Pacific Games in 1979."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2477,
+    "user_query": "How many of Ibrahim El Bouni's current manager's wins have come via knockout?",
+    "chatgpt_response": "As of my knowledge in February 2022, Ibrahim El Bouni's current manager's wins have come via knockout 24 times.",
+    "chatgpt_fact": [
+      "As of February 2022, Ibrahim El Bouni's current manager's wins have come from knockout 24 times."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2485,
+    "user_query": "Who is younger, Philip Labonte or Billie Joe Armstrong?",
+    "chatgpt_response": "Philip Labonte is younger than Billie Joe Armstrong.",
+    "chatgpt_fact": [
+      "Philip Labonte is younger than Billie Joe Armstrong."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2523,
+    "user_query": "Other than singing and songwriting what other profession did Lithuanian Eurovision Song Contestant Mia join?",
+    "chatgpt_response": "Aside from being a singer and songwriter, Lithuanian Eurovision Song Contestant Mia also worked as a model.",
+    "chatgpt_fact": [
+      "Mia is a Lithuanian Eurovision Song Contestant.",
+      "Mia is a singer and songwriter.",
+      "Mia also worked as a model."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2550,
+    "user_query": "Have It All was the last single from the fourth album by the Foo Fighters, released on which date?",
+    "chatgpt_response": "\"Have It All\" was not released as a single from any of the Foo Fighters' albums.",
+    "chatgpt_fact": [
+      "\"Have It All\" was not released as a single from any of the Foo Fighters' albums."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2551,
+    "user_query": "The co-director of The Simpsons helped create the American sitcom, Shaping Up, which was canceled on what date?",
+    "chatgpt_response": "The American sitcom \"Shaping Up\" was canceled on December 6, 1984.",
+    "chatgpt_fact": [
+      "The American sitcom \"Shaping Up\" was canceled on December 6, 1984."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2568,
+    "user_query": "School is Cool is a song in the fusion genre that emerged in what decade?",
+    "chatgpt_response": "The fusion genre emerged in the 1970s.",
+    "chatgpt_fact": [
+      "The fusion genre emerged in the 1970s."
+    ],
+    "human_judge": []
+  },
+  {
+    "id": 2612,
+    "user_query": "What month was the United Kingdom's A-side of the \"I Don't Care Anymore\" single released?",
+    "chatgpt_response": "The United Kingdom's A-side of the \"I Don't Care Anymore\" single was released in October 1983.",
+    "chatgpt_fact": [
+      "The A-side of the \"I Don't Care Anymore\" single was released in the United Kingdom in October 1983."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2629,
+    "user_query": "Loïc Baa has made an appearance for which team that was founded in 1893?",
+    "chatgpt_response": "Loïc Baa has made an appearance for the AS Monaco FC.",
+    "chatgpt_fact": [
+      "Loïc Baa has made an appearance for AS Monaco FC.",
+      "AS Monaco FC was founded in 1893."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2641,
+    "user_query": "In which country, apart from India, is this species of rodent, which is abundant in Aartha Kunj, found naturally?",
+    "chatgpt_response": "Apart from India, the species of rodent found naturally in Aartha Kunj is also abundant in the neighboring country of Nepal.",
+    "chatgpt_fact": [
+      "There is a species of rodent that is found naturally in Aartha Kunj.",
+      "This species of rodent is also found in India.",
+      "Aside from India, this rodent species is also abundant in Nepal."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2658,
+    "user_query": "When was the person who wrote the music for Take Flight born?",
+    "chatgpt_response": "The person who composed the music for \"Take Flight\" is Craig Adams. However, there are multiple songs titled \"Take Flight,\" so it is unclear which specific one you are referring to. Please provide more specific information or clarify your question.",
+    "chatgpt_fact": [
+      "Craig Adams is a composer of a song titled \"Take Flight\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2673,
+    "user_query": "one of the star in Monster Butler is from who is born in born 16 August 1991 is from which country ?",
+    "chatgpt_response": "Based on the given information, the person born on 16 August 1991 who is one of the stars in the film \"Monster Butler\" is from the country of the United Kingdom.",
+    "chatgpt_fact": [
+      "The star from the film \"Monster Butler,\" who was born on 16 August 1991, is from the United Kingdom."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2715,
+    "user_query": "Invincible and The Strongest Man in the World are both American movies with one being staged during the 1970s and the other being made in the 1970s. Which movie was made in the 1970s?",
+    "chatgpt_response": "Based on the information given, the movie made in the 1970s is Invincible.",
+    "chatgpt_fact": [
+      "The movie Invincible was made in the 1970s."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2778,
+    "user_query": "Which board game was the opposite of Monopoly? Shadow Hunters or The Mad Magazine Game?",
+    "chatgpt_response": "The Mad Magazine Game was the opposite of Monopoly.",
+    "chatgpt_fact": [
+      "The Mad Magazine Game is considered the opposite of Monopoly."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2795,
+    "user_query": "Which Argentine professional basketball player currently plays for the San Antonio Spurs, Juan Pablo Vaulet or Manu Ginóbili?",
+    "chatgpt_response": "Manu Ginóbili currently plays for the San Antonio Spurs.",
+    "chatgpt_fact": [
+      "Manu Ginóbili plays for the San Antonio Spurs."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2798,
+    "user_query": "Which is located further south, Lupin Mine, or McIntyre Mines?",
+    "chatgpt_response": "The Lupin Mine is located further south than the McIntyre Mines.",
+    "chatgpt_fact": [
+      "Lupin Mine is located further south than the McIntyre Mines."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2809,
+    "user_query": "Which airport is closer to its business district, Nome Airport or MidAmerica St. Louis Airport?",
+    "chatgpt_response": "MidAmerica St. Louis Airport is closer to its business district.",
+    "chatgpt_fact": [
+      "MidAmerica St. Louis Airport is closer to its business district than Nome Airport."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2833,
+    "user_query": "Are both the Bananarita and the Matador served in a martini glass?",
+    "chatgpt_response": "No, the Bananarita is typically served in a regular rocks glass or a Margarita glass. The Matador, on the other hand, is commonly served in a Collins glass or a highball glass.",
+    "chatgpt_fact": [
+      "The Bananarita is typically served in a regular rocks glass or a Margarita glass.",
+      "The Matador is commonly served in a Collins glass or a highball glass."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2837,
+    "user_query": "Which is a genus that is endemic to Australia, Hydrangea or Leea?",
+    "chatgpt_response": "Leea is a genus that is endemic to Australia.",
+    "chatgpt_fact": [
+      "Leea is a genus that is endemic to Australia."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2863,
+    "user_query": "Which city has more inhabitants Wuchuan, Guangdong or Xichang ?",
+    "chatgpt_response": "According to the latest available data, Wuchuan, Guangdong has a higher population than Xichang. Wuchuan has a population of approximately 1.15 million people, making it more populous than Xichang, which has a population of around 620,000 people.",
+    "chatgpt_fact": [
+      "Wuchuan, Guangdong has a higher population than Xichang.",
+      "The population of Wuchuan, Guangdong is approximately 1.15 million people.",
+      "The population of Xichang is around 620,000 people."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2879,
+    "user_query": "Joseph and Elizabeth Wallendorf House is a house with a style that was common in what part of the United States during the 19th and 20th centuries?",
+    "chatgpt_response": "The Joseph and Elizabeth Wallendorf House is a house with a style that was common in the Midwestern part of the United States during the 19th and 20th centuries.",
+    "chatgpt_fact": [
+      "The Joseph and Elizabeth Wallendorf House is a house in the United States.",
+      "The style of the Joseph and Elizabeth Wallendorf House was common in the Midwest during the 19th and 20th centuries."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 2906,
+    "user_query": "When did shooting for the episode \"Pilot\" begin for the HBO series The Deuce?",
+    "chatgpt_response": "Shooting for the pilot episode of The Deuce began in October 2015.",
+    "chatgpt_fact": [
+      "The shooting for the pilot episode of The Deuce began in October 2015."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2914,
+    "user_query": "The company that ViaVoice merged with was headquartered where?",
+    "chatgpt_response": "The company that ViaVoice merged with was headquartered in Menlo Park, California, United States.",
+    "chatgpt_fact": [
+      "The company that ViaVoice merged with was headquartered in Menlo Park, California, United States."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2959,
+    "user_query": "How many teams from the conference located mainly in the Northeastern United States participate in the 2015 America East Men's Lacrosse Tournament?",
+    "chatgpt_response": "In the 2015 America East Men's Lacrosse Tournament, a total of six teams from the conference located mainly in the Northeastern United States participated.",
+    "chatgpt_fact": [
+      "Six teams from the conference located mainly in the Northeastern United States participated in the 2015 America East Men's Lacrosse Tournament."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 2961,
+    "user_query": "Which was renamed in 2003 amid the restructuring of districts and counties in Huizhou, Yingkou or Huiyang District?",
+    "chatgpt_response": "Huiyang District was renamed in 2003 amid the restructuring of districts and counties in Huizhou.",
+    "chatgpt_fact": [
+      "Huiyang District was renamed in 2003.",
+      "The renaming of Huiyang District took place amid the restructuring of districts and counties in Huizhou."
+    ],
+    "human_judge": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": 3010,
+    "user_query": "what month did equestrian games take place in 2006 in Qatar's capital city?",
+    "chatgpt_response": "The equestrian games took place in March 2006 in Qatar's capital city.",
+    "chatgpt_fact": [
+      "The equestrian games took place in Qatar's capital city in March 2006."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3038,
+    "user_query": "Which Olympic sport did Sajjad Anoushiravani both compete in and coach?",
+    "chatgpt_response": "Sajjad Anoushiravani competed and coached in the sport of Taekwondo.",
+    "chatgpt_fact": [
+      "Sajjad Anoushiravani competed in the sport of Taekwondo.",
+      "Sajjad Anoushiravani also coached in the sport of Taekwondo."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3048,
+    "user_query": "What final UEFA game was won by penalty kicks from a Romanian football defender?",
+    "chatgpt_response": "There is no record of a Romanian football defender winning a final UEFA game through penalty kicks.",
+    "chatgpt_fact": [
+      "There is no record of a Romanian football defender winning a final UEFA game through penalty kicks."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3054,
+    "user_query": "Who was in the Navy, Anna Der-Vartanian or Richard Bakalyan?",
+    "chatgpt_response": "Richard Bakalyan was in the Navy.",
+    "chatgpt_fact": [
+      "Richard Bakalyan was in the Navy."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3068,
+    "user_query": "What was the name of the seventh studio album of the American rock band formed in 1977 in Los Angeles, featuring Joseph Williams on lead vocals?",
+    "chatgpt_response": "The seventh studio album of the American rock band formed in 1977 in Los Angeles, featuring Joseph Williams on lead vocals, is called \"The Seventh One\".",
+    "chatgpt_fact": [
+      "An American rock band was formed in 1977 in Los Angeles.",
+      "Joseph Williams is the lead vocalist of this band.",
+      "The band has a studio album called \"The Seventh One\".",
+      "\"The Seventh One\" is this band's seventh studio album."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3074,
+    "user_query": "Between two musicians Rocky Shades and Kelly Hansen, who was born earlier?",
+    "chatgpt_response": "Rocky Shades was born earlier.",
+    "chatgpt_fact": [
+      "Rocky Shades was born before Kelly Hansen."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3075,
+    "user_query": "Portland's copy of the Joan of Arc statue was dedicated to members of what branch of military?",
+    "chatgpt_response": "Portland's copy of the Joan of Arc statue was dedicated to members of the United States Army.",
+    "chatgpt_fact": [
+      "Portland's copy of the Joan of Arc statue was dedicated to members of the United States Army."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3147,
+    "user_query": "Ensemble Pieces, which was a classical work done in part by John Adams, had strong roots in what style of music?",
+    "chatgpt_response": "Ensemble Pieces, a classical work partly composed by John Adams, had strong roots in the style of minimalism.",
+    "chatgpt_fact": [
+      "\"Ensemble Pieces\" is a classical work.",
+      "John Adams partly composed \"Ensemble Pieces\".",
+      "\"Ensemble Pieces\" has strong roots in the style of minimalism."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3171,
+    "user_query": "The female star of \"The Waiting Room\" played what character in \"The Virgin Queen\"?",
+    "chatgpt_response": "The female star of \"The Waiting Room\" did not appear in \"The Virgin Queen\".",
+    "chatgpt_fact": [
+      "The female star of \"The Waiting Room\" did not appear in \"The Virgin Queen\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3207,
+    "user_query": "Steve Lee's last eleven albums have all reached number 1 on what chart?",
+    "chatgpt_response": "Steve Lee is a fictional character and does not have any albums. Therefore, he has not reached number 1 on any chart.",
+    "chatgpt_fact": [
+      "Steve Lee is a fictional character and does not have any albums."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3215,
+    "user_query": "Which 1999 biographical film starred the same actor who performed in the biopic about a NASA engineer titled \"October Sky\" and \"The Bourne Identity\"?",
+    "chatgpt_response": "The 1999 biographical film that starred the same actor who performed in \"October Sky\" and \"The Bourne Identity\" is \"The Talented Mr. Ripley.\" The actor in question is Matt Damon.",
+    "chatgpt_fact": [
+      "\"The Talented Mr. Ripley\" is a biographical film from 1999.",
+      "\"October Sky\" and \"The Bourne Identity\" are two films in which Matt Damon has performed.",
+      "Matt Damon is the actor who starred in \"The Talented Mr. Ripley,\" \"October Sky,\" and \"The Bourne Identity\"."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3221,
+    "user_query": "Which airport, Tallahassee International Airport or Quincy Regional Airport is closer to its local city ?",
+    "chatgpt_response": "Tallahassee International Airport is closer to its local city, Tallahassee, compared to Quincy Regional Airport's proximity to Quincy.",
+    "chatgpt_fact": [
+      "Tallahassee International Airport is closer to the city of Tallahassee than Quincy Regional Airport is to Quincy."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3233,
+    "user_query": "Which film premiered at a later date, Inside Out or Big Red?",
+    "chatgpt_response": "Inside Out premiered at a later date than Big Red.",
+    "chatgpt_fact": [
+      "The film 'Inside Out' premiered at a later date than 'Big Red'."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3266,
+    "user_query": "\"The Play of God\" is an adaptation of what Shakespeare play featuring the daughter of a Venetian senator who elopes with a black man several years her senior?",
+    "chatgpt_response": "\"The Play of God\" is an adaptation of William Shakespeare's play \"Othello.\"",
+    "chatgpt_fact": [
+      "\"The Play of God\" is an adaptation of a William Shakespeare's play.",
+      "The play it adapts is \"Othello.\""
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3271,
+    "user_query": "Which movie staring Madge Ryan is a musical film produced in 1963?",
+    "chatgpt_response": "The movie starring Madge Ryan that is a musical film produced in 1963 is \"The Early Bird\".",
+    "chatgpt_fact": [
+      "The Early Bird is a movie that starred Madge Ryan.",
+      "The Early Bird is a musical film.",
+      "The Early Bird was produced in 1963."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3318,
+    "user_query": "How many episodes were in the crime miniseries spoofed by The Best Movie?",
+    "chatgpt_response": "The Best Movie is a comedy film, not a miniseries. Therefore, it does not have any real miniseries to spoof.",
+    "chatgpt_fact": [
+      "The Best Movie is a comedy film.",
+      "The Best Movie does not spoof any real miniseries."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3343,
+    "user_query": "KACH is owned by Anthony Cumina and a man that has been called the Godfather of what movement?",
+    "chatgpt_response": "KACH is a nonprofit organization owned by Anthony Cumia and a man who has been called the Godfather of the Podcasting movement.",
+    "chatgpt_fact": [
+      "KACH is a nonprofit organization.",
+      "Anthony Cumia is one of the owners of KACH.",
+      "The other owner of KACH is called the Godfather of the Podcasting movement."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3357,
+    "user_query": "which a province of Argentina is  Tolloche located",
+    "chatgpt_response": "There is no province in Argentina called \"Tolloche.\" It is possible that Tolloche is a small town or village located within a province. However, without further information, it is not possible to determine its exact location.",
+    "chatgpt_fact": [
+      "Tolloche might be a small town or village within a province in Argentina."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3458,
+    "user_query": "What team did Per Backman coach after he was replaced by Janne Karlsson?",
+    "chatgpt_response": "After being replaced by Janne Karlsson, Per Backman went on to coach the Frölunda HC team.",
+    "chatgpt_fact": [
+      "Per Backman was replaced by Janne Karlsson as a coach.",
+      "Per Backman became the coach of the Frölunda HC team after being replaced by Janne Karlsson."
+    ],
+    "human_judge": [
+      "false",
+      "true"
+    ]
+  },
+  {
+    "id": 3464,
+    "user_query": "Which composer played more instruments, Gaspare Spontini or Carl Maria von Weber?",
+    "chatgpt_response": "Carl Maria von Weber played more instruments than Gaspare Spontini.",
+    "chatgpt_fact": [
+      "Carl Maria von Weber played more instruments than Gaspare Spontini."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3509,
+    "user_query": "What show does the man born on February 25, 1951 host with Mark Thompson?",
+    "chatgpt_response": "The man born on February 25, 1951, hosts a radio show called \"The Mark and Brian Show\" with Mark Thompson.",
+    "chatgpt_fact": [
+      "The man born on February 25, 1951, co-hosts a radio show.",
+      "The radio show he co-hosts is called \"The Mark and Brian Show\".",
+      "His co-host on the radio show is Mark Thompson."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3533,
+    "user_query": "Elijah Connor was part of the spin-off of what reality show?",
+    "chatgpt_response": "Elijah Connor was part of the spin-off of the reality show \"Love & Hip Hop: Hollywood.\"",
+    "chatgpt_fact": [
+      "Elijah Connor was a part of the reality show \"Love & Hip Hop: Hollywood.\""
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3562,
+    "user_query": "Empire is a short film directed  by a director who won the Golden Lion at the Venice Film Festival for which film ?",
+    "chatgpt_response": "The short film \"Empire\" is directed by J.P. Habac. However, J.P. Habac has not won the Golden Lion at the Venice Film Festival. The question seems to be referring to a different director.",
+    "chatgpt_fact": [
+      "\"Empire\" is a short film.",
+      "J.P. Habac is the director of the short film \"Empire\".",
+      "J.P. Habac has not won the Golden Lion at the Venice Film Festival."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "true"
+    ]
+  },
+  {
+    "id": 3590,
+    "user_query": "Which band has more original members, Tse Tse Fly or +44?",
+    "chatgpt_response": "Tse Tse Fly has more original members than +44.",
+    "chatgpt_fact": [
+      "Tse Tse Fly has more original members than +44."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3641,
+    "user_query": "Which breed, the Rough Collie or the Serbian Tricolour Hound, was first considered as a separate breed?",
+    "chatgpt_response": "The Rough Collie was first considered as a separate breed.",
+    "chatgpt_fact": [
+      "The Rough Collie was considered as a separate breed before the Serbian Tricolour Hound."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3685,
+    "user_query": "Which Indian Prime Minister caused a personnel change in the Nanavati-Mehta Commission due to closeness with a member?",
+    "chatgpt_response": "The Indian Prime Minister who caused a personnel change in the Nanavati-Mehta Commission due to closeness with a member was Prime Minister Manmohan Singh.",
+    "chatgpt_fact": [
+      "Indian Prime Minister Manmohan Singh caused a personnel change in the Nanavati-Mehta Commission due to closeness with a member."
+    ],
+    "human_judge": [
+      "true"
+    ]
+  },
+  {
+    "id": 3698,
+    "user_query": "The Jazz of the City Atlanta is a portrait of over 100 jazz musicians surrounding what American politician who served as the 58th mayor of Atlanta?",
+    "chatgpt_response": "The Jazz of the City Atlanta is a portrait of over 100 jazz musicians surrounding the American politician Maynard Jackson, who served as the 58th mayor of Atlanta.",
+    "chatgpt_fact": [
+      "The Jazz of the City Atlanta is a portrait of over 100 jazz musicians.",
+      "The portrait features American politician Maynard Jackson.",
+      "Maynard Jackson served as the 58th mayor of Atlanta."
+    ],
+    "human_judge": [
+      "true",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3703,
+    "user_query": "Who is older, Mark Hunter or Martin Johnson?",
+    "chatgpt_response": "Martin Johnson is older than Mark Hunter.",
+    "chatgpt_fact": [
+      "Martin Johnson is older than Mark Hunter."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3717,
+    "user_query": "What is the name of the actor who played the role of \"Danny\" in the original film from which 2004's tenth highest grossing film is based on?",
+    "chatgpt_response": "The name of the actor who played the role of \"Danny\" in the original film is Danny Ocean.",
+    "chatgpt_fact": [
+      "The actor who played the role of \"Danny\" in the original film is named Danny Ocean."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3748,
+    "user_query": "What did the the person of which the Division of Mayo was named after, study at the University of Adelaide?",
+    "chatgpt_response": "The Division of Mayo was named after Richard Henry Mayo, who was an Australian politician and a prominent figure in the South Australian Parliament. However, there is no available information regarding Richard Henry Mayo's educational background or whether he studied at the University of Adelaide.",
+    "chatgpt_fact": [
+      "The Division of Mayo was named after Richard Henry Mayo.",
+      "Richard Henry Mayo was an Australian politician.",
+      "Richard Henry Mayo was a prominent figure in the South Australian Parliament."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3774,
+    "user_query": "Who won first title at Forest Hills in 1988, Jorge Lozano or Lindsay Davenport?",
+    "chatgpt_response": "Lindsay Davenport won the first title at Forest Hills in 1988.",
+    "chatgpt_fact": [
+      "Lindsay Davenport won the first title at Forest Hills in 1988."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3776,
+    "user_query": "What conference did the team that plays for a public research university in Norman, Oklahoma compete in 1991?",
+    "chatgpt_response": "The team that plays for a public research university in Norman, Oklahoma, competed in the Big Eight Conference in 1991.",
+    "chatgpt_fact": [
+      "In 1991, the team from the public research university in Norman, Oklahoma competed in the Big Eight Conference."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3805,
+    "user_query": "WHere are both Stewart's Fountain Classics and Cactus Cooler sold?",
+    "chatgpt_response": "Stewart's Fountain Classics and Cactus Cooler can be sold at various locations, including:\n1. Grocery stores: You can find these beverages at major grocery store chains like Walmart, Kroger, Safeway, or Publix.\n2. Convenience stores: Many convenience stores, such as 7-Eleven, Circle K, or Wawa, stock Stewart's Fountain Classics and Cactus Cooler.\n3. Independent retailers: Local independent retailers, such as small grocery stores or specialty beverage shops, may carry these brands.\n4. Online retailers: Websites like Amazon, Walmart.com, or beverage-specific online stores often sell Stewart's Fountain Classics and Cactus Cooler.\n5. Gas stations: Many gas stations, such as Shell or Chevron, have a variety of beverage options and may have these brands available.\n6. Restaurants and cafes: Certain diners, cafes, or fast-food chains may offer Stewart's Fountain Classics or Cactus Cooler as part of their beverage menu. \nPlease note that availability and locations may vary, so it's always best to check with specific retailers or use online store locators to find the nearest location selling Stewart's Fountain Classics and Cactus Cooler.",
+    "chatgpt_fact": [
+      "Stewart's Fountain Classics and Cactus Cooler can be found at major grocery store chains.",
+      "7-Eleven, Circle K, and Wawa are examples of convenience stores that sell these beverages.",
+      "Local independent retailers such as small grocery stores or specialty beverage shops may carry Stewart's Fountain Classics and Cactus Cooler.",
+      "Stewart's Fountain Classics and Cactus Cooler can be purchased from online retailers like Amazon and Walmart.com.",
+      "Certain gas stations, like Shell or Chevron, may offer Stewart's Fountain Classics and Cactus Cooler.",
+      "Some restaurants, cafes, or fast food chains offer Stewart's Fountain Classics or Cactus Cooler on their beverage menu."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "true",
+      "true"
+    ]
+  },
+  {
+    "id": 3830,
+    "user_query": "Which star of Urban Legends: Bloody Mary is a former American Football player?",
+    "chatgpt_response": "Julio Cedillo",
+    "chatgpt_fact": [
+      "Julio Cedillo is a former American Football player."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3832,
+    "user_query": "When did the Birks Group take over Rodens Brothers?",
+    "chatgpt_response": "The Birks Group took over Rodens Brothers in 1987.",
+    "chatgpt_fact": [
+      "The Birks Group took over Rodens Brothers in 1987."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3843,
+    "user_query": "Who did Wittawas Basapean lose to when competing for the WBO International Strawweight Title?",
+    "chatgpt_response": "Wittawas Basapean lost to Simphiwe Khonco when competing for the WBO International Strawweight Title.",
+    "chatgpt_fact": [
+      "Wittawas Basapean competed for the WBO International Strawweight Title.",
+      "Wittawas Basapean lost to Simphiwe Khonco in this title competition."
+    ],
+    "human_judge": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": 3853,
+    "user_query": "The Bradford Farm Historic District is located in what county?",
+    "chatgpt_response": "The Bradford Farm Historic District is located in Washington County.",
+    "chatgpt_fact": [
+      "The Bradford Farm Historic District is located in Washington County."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3865,
+    "user_query": "What is another name by which the author of The Ski Bum is known?",
+    "chatgpt_response": "The author of The Ski Bum is known by another name, Jean-Claude Killy.",
+    "chatgpt_fact": [
+      "The author of The Ski Bum is also known as Jean-Claude Killy."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3872,
+    "user_query": "This Polish-American actor and filmmaker directed \"Homeless in America\" and a sitcom set in an apartment building inch which the director is in what roll?",
+    "chatgpt_response": "The Polish-American actor and filmmaker you are referring to is probably Andrzej Bartkowiak. He directed the documentary \"Homeless in America\" and also directed a sitcom called \"The Apartment Building.\" In this sitcom, it is not specified which role the director takes on.",
+    "chatgpt_fact": [
+      "Andrzej Bartkowiak is a Polish-American actor and filmmaker.",
+      "Andrzej Bartkowiak directed the documentary \"Homeless in America.\"",
+      "Andrzej Bartkowiak directed a sitcom called \"The Apartment Building.\"",
+      "It is not specified which role Bartkowiak takes on in \"The Apartment Building.\""
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3878,
+    "user_query": "Who won the women's rugby championship sponsored by the RBS in 2016?",
+    "chatgpt_response": "The women's rugby championship sponsored by the RBS in 2016 was won by England.",
+    "chatgpt_fact": [
+      "England won the women's rugby championship sponsored by the RBS in 2016."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3905,
+    "user_query": "The 2017 ESPN College Football Friday Primetime game was announced by Adam Amin and a former football player was drafted in 2006 by what NFL team?",
+    "chatgpt_response": "The information provided is unrelated. Therefore, there is no way to determine which NFL team drafted the former football player in 2006 based on the given context.",
+    "chatgpt_fact": [
+      "In 2017, Adam Amin announced the ESPN College Football Friday Primetime game."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3922,
+    "user_query": "What Universal video game was released on May 27, 2003 to tie in with the superhero movie released the same year?",
+    "chatgpt_response": "The Universal video game that was released on May 27, 2003, to tie in with the superhero movie released the same year was \"Hulk: The Incredible Destruction.\"",
+    "chatgpt_fact": [
+      "\"Hulk: The Incredible Destruction\" is a Universal video game.",
+      "\"Hulk: The Incredible Destruction\" was released on May 27, 2003.",
+      "The game was tied in with a superhero movie released the same year."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 3935,
+    "user_query": "What Katy Perry song appears on the first U.S. \"Now!\" album?",
+    "chatgpt_response": "The Katy Perry song that appears on the first U.S. \"Now!\" album is \"I Kissed a Girl\".",
+    "chatgpt_fact": [
+      "The song \"I Kissed a Girl\" by Katy Perry appears on the first U.S. \"Now!\" album."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 3946,
+    "user_query": "Wappinschaw included a cover of which 1957 folk song?",
+    "chatgpt_response": "The 1957 folk song that Wappinschaw included a cover of is \"The House of the Rising Sun.\"",
+    "chatgpt_fact": [
+      "Wappinschaw included a cover of the song \"The House of the Rising Sun.\"",
+      "\"The House of the Rising Sun\" is a folk song from 1957."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 4002,
+    "user_query": "Which man stars in the film Fire with Fire alongside the person who played David Addison in \"Moonlighting?\"",
+    "chatgpt_response": "The man who stars in the film \"Fire with Fire\" alongside the person who played David Addison in \"Moonlighting\" is Bruce Willis.",
+    "chatgpt_fact": [
+      "Bruce Willis is the main star in the film \"Fire with Fire\".",
+      "The character David Addison from \"Moonlighting\" is also in the film \"Fire with Fire\"."
+    ],
+    "human_judge": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": 4005,
+    "user_query": "What did the time that brought an end to the Packers 25 game home winning streak become the third team to do?",
+    "chatgpt_response": "The team that brought an end to the Packers' 25 game home winning streak became the third team to defeat them at home in that streak.",
+    "chatgpt_fact": [
+      "The Packers had a 25 game home winning streak.",
+      "The team that ended this streak is the third team to defeat the Packers at home during the streak."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 4008,
+    "user_query": "What is the other name century which had influenced the compilation of The Diritto Municipale ?",
+    "chatgpt_response": "The other name for the century which had influenced the compilation of The Diritto Municipale is the 13th century.",
+    "chatgpt_fact": [
+      "The Diritto Municipale was influenced by the 13th century."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4058,
+    "user_query": "What is the reporting mark of the museum in which Sumter & Choctaw 102 is preserved?",
+    "chatgpt_response": "The reporting mark of the museum where Sumter & Choctaw 102 is preserved is CCRR (Central Carolina RailRoad).",
+    "chatgpt_fact": [
+      "Sumter & Choctaw 102 is preserved in a museum.",
+      "The museum where Sumter & Choctaw 102 is preserved has a reporting mark.",
+      "The reporting mark of the museum is CCRR.",
+      "CCRR stands for Central Carolina RailRoad."
+    ],
+    "human_judge": [
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 4063,
+    "user_query": "Which filmmaker has directed more feature films, Stephen Hopkins or Robert Gregson?",
+    "chatgpt_response": "Stephen Hopkins has directed more feature films than Robert Gregson.",
+    "chatgpt_fact": [
+      "Stephen Hopkins has directed more feature films than Robert Gregson."
+    ],
+    "human_judge": [
+      "true"
+    ]
+  },
+  {
+    "id": 4108,
+    "user_query": "Which country The Cat Creek Oil Field Sign belongs to?",
+    "chatgpt_response": "The Cat Creek Oil Field Sign is located in the United States of America.",
+    "chatgpt_fact": [
+      "The Cat Creek Oil Field Sign is located in the United States of America."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4109,
+    "user_query": "What is the name of the basketball team formerly coached by Valerie Goodwin-Colbert at the University of Oklahoma?",
+    "chatgpt_response": "Valerie Goodwin-Colbert was never the head coach of any basketball team at the University of Oklahoma.",
+    "chatgpt_fact": [
+      "Valerie Goodwin-Colbert never served as the head coach for any basketball team at the University of Oklahoma."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4110,
+    "user_query": "Which of the adaptation of Winnie-the-Pooh\" stories was distributed by Buena Vista Distribution?",
+    "chatgpt_response": "The 2011 adaptation of \"Winnie-the-Pooh\" was distributed by Buena Vista Distribution.",
+    "chatgpt_fact": [
+      "The 2011 adaptation of \"Winnie-the-Pooh\" was distributed by Buena Vista Distribution."
+    ],
+    "human_judge": [
+      "true"
+    ]
+  },
+  {
+    "id": 4135,
+    "user_query": "What is the middle name of the actress that co-starred with Richard Burton in the 1967 film \"The Taming of the Shrew\"?",
+    "chatgpt_response": "The middle name of the actress who co-starred with Richard Burton in the 1967 film \"The Taming of the Shrew\" is Anne. Her full name is Elizabeth Anne Taylor.",
+    "chatgpt_fact": [
+      "The actress who co-starred with Richard Burton in the 1967 film \"The Taming of the Shrew\" has the middle name Anne.",
+      "The full name of the actress is Elizabeth Anne Taylor."
+    ],
+    "human_judge": [
+      "false",
+      "false"
+    ]
+  },
+  {
+    "id": 4238,
+    "user_query": "What hotel in Boston had a guest some referred to as the King of the Wild Frontier?",
+    "chatgpt_response": "The hotel in Boston that had a guest some referred to as the \"King of the Wild Frontier\" is the Parker House Hotel.",
+    "chatgpt_fact": [
+      "The \"King of the Wild Frontier\" stayed at the Parker House Hotel in Boston."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4247,
+    "user_query": "Anthony Watts was the managing director of the publication released by which association?",
+    "chatgpt_response": "Anthony Watts was the managing director of the publication released by the Heartland Institute.",
+    "chatgpt_fact": [
+      "Anthony Watts was the managing director of the publication released by the Heartland Institute."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4333,
+    "user_query": "Which chain has restaurants in more countries, Gino's Pizza and Spaghetti, or Sarpino's Pizzeria?",
+    "chatgpt_response": "Currently, Sarpino's Pizzeria has restaurants in more countries than Gino's Pizza and Spaghetti.",
+    "chatgpt_fact": [
+      "Sarpino's Pizzeria has restaurants in more countries than Gino's Pizza and Spaghetti."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4345,
+    "user_query": "which company published the super girl from Krypton and Hybrid superboy?",
+    "chatgpt_response": "The company that published \"Supergirl from Krypton\" and \"Hybrid Superboy\" is DC Comics.",
+    "chatgpt_fact": [
+      "DC Comics published \"Supergirl from Krypton\" and \"Hybrid Superboy\"."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  },
+  {
+    "id": 4363,
+    "user_query": "Who joined the pricipl memebers of the US intelligence community in 1985?",
+    "chatgpt_response": "In 1985, only professional staff members joined the principal members of the US intelligence community. Specific individuals or names are not mentioned in the given context.",
+    "chatgpt_fact": [
+      "Professional staff members joined the principal members of the US intelligence community in 1985."
+    ],
+    "human_judge": [
+      "false"
+    ]
+  }
+]

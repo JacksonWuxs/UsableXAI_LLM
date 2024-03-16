@@ -1,0 +1,13 @@
+Even though electronic espionage may cost U.S. firms billions of dollars a year , most are n't yet taking precautions , the experts said .
+By contrast , European firms will spend $ 150 million this year on electronic security , and are expected to spend $ 1 billion by 1992 .
+Already many foreign firms , especially banks , have their own cryptographers , conference speakers reported .
+Still , encrypting corporate communications is only a partial remedy .
+One expert , whose job is so politically sensitive that he spoke on condition that he would n't be named or quoted , said the expected influx of East European refugees over the next few years will greatly increase the chances of computer - maintenance workers , for example , doubling as foreign spies .
+Moreover , he said , technology now exists for stealing corporate secrets after they 've been " erased " from a computer 's memory .
+He said that Oliver North of Iran - Contra notoriety thought he had erased his computer but that the information was later retrieved for congressional committees to read .
+No personal computer , not even the one on a chief executive 's desk , is safe , this speaker noted .
+W. Mark Goode , president of Micronyx Inc. , a Richardson , Texas , firm that makes computer - security products , provided a new definition for Mikhail Gorbachev 's campaign for greater openness , known commonly as glasnost .
+Under Mr. Gorbachev , Mr. Goode said , the Soviets are openly stealing Western corporate communications .
+He cited the case of a Swiss oil trader who recently put out bids via telex for an oil tanker to pick up a cargo of crude in the Middle East .
+Among the responses the Swiss trader got was one from the Soviet national shipping company , which had n't been invited to submit a bid .
+The Soviets ' eavesdropping paid off , however , because they got the contract .

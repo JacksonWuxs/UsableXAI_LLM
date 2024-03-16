@@ -1,0 +1,18 @@
+On 9/11 , the defense of U.S. airspace depended on close interaction between two federal agencies : the FAA and the North American Aerospace Defense Command ( NORAD ) .
+The most recent hijacking that involved U.S. air traffic controllers , FAA management , and military coordination had occurred in 1993.90 In order to understand how the two agencies interacted eight years later , we will review their missions , command and control structures , and working relationship on the morning of 9/11 .
+FAA Mission and Structure .
+As of September 11 , 2001 , the FAA was mandated by law to regulate the safety and security of civil aviation .
+From an air traffic controller 's perspective , that meant maintaining a safe distance between airborne aircraft .
+Many controllers work at the FAA 's 22 Air Route Traffic Control Centers .
+They are grouped under regional offices and coordinate closely with the national Air Traffic Control System Command Center , located in Herndon , Virginia , which oversees daily traffic flow within the entire airspace system .
+FAA headquarters is ultimately responsible for the management of the National Airspace System .
+The Operations Center located at FAA headquarters receives notifications of incidents , including accidents and hijackings .
+FAA Control Centers often receive information and make operational decisions independently of one another .
+On 9/11 , the four hijacked aircraft were monitored mainly by the centers in Boston , New York , Cleveland , and Indianapolis .
+Each center thus had part of the knowledge of what was going on across the system .
+What Boston knew was not necessarily known by centers in New York , Cleveland , or Indianapolis , or for that matter by the Command Center in Herndon or by FAA headquarters in Washington .
+Controllers track airliners such as the four aircraft hijacked on 9/11 primarily by watching the data from a signal emitted by each aircraft 's transponder equipment .
+Those four planes , like all aircraft traveling above 10,000 feet , were required to emit a unique transponder signal while in flight .
+On 9/11 , the terrorists turned off the transponders on three of the four hijacked aircraft .
+With its transponder off , it is possible , though more difficult , to track an aircraft by its primary radar returns .
+But unlike transponder data , primary radar returns do not show the aircraft 's identity and altitude .

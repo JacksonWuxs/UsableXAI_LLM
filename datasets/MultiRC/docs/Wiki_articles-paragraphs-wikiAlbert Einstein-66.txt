@@ -1,0 +1,7 @@
+General relativity includes a dynamical spacetime , so it is difficult to see how to identify the conserved energy and momentum .
+Noether 's theorem allows these quantities to be determined from a Lagrangian with translation invariance , but general covariance makes translation invariance into something of a gauge symmetry .
+The energy and momentum derived within general relativity by Noether 's presecriptions do not make a real tensor for this reason .
+Einstein argued that this is true for fundamental reasons , because the gravitational field could be made to vanish by a choice of coordinates .
+He maintained that the non - covariant energy momentum pseudotensor was in fact the best description of the energy momentum distribution in a gravitational field .
+This approach has been echoed by Lev Landau and Evgeny Lifshitz , and others , and has become standard .
+The use of non - covariant objects like pseudotensors was heavily criticized in 1917 by Erwin Schrodinger and others .

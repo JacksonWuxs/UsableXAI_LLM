@@ -1,0 +1,18 @@
+In 1917 , Einstein applied the general theory of relativity to model the structure of the universe as a whole .
+He apprehended that his equations predicted the universe to be either contracting or expanding .
+He wanted the universe to be eternal and unchanging , but this type of universe is not consistent with relativity .
+To fix this , Einstein modified the general theory by introducing a new notion , the cosmological constant , which he called ' ' Lambda ' ' .
+The purpose of Lambda was to rectify the effects of gravity and allow the whole system to stay balanced .
+With a positive cosmological constant , the universe could be an eternal static sphere .
+However , in 1929 , Edwin Hubble confirmed that the universe is expanding , Einstein exclaimed after his Mount Wilson visit with Hubble : " If there is no quasi - static world , then away with the cosmological term ! "
+and Einstein supposedly discarded the cosmological constant .
+Einstein believed a spherical static universe is philosophically preferred , because it would obey Mach 's principle .
+He had shown that general relativity incorporates Mach 's principle to a certain extent in frame dragging by gravitomagnetic fields , but he knew that Mach 's idea would not work if space goes on forever .
+In a closed universe , he believed that Mach 's principle would hold .
+Mach 's principle has generated much controversy over the years .
+In many of Einstein biographies , writers claim that he called the creation of Lambda his " biggest blunder " .
+Recently , astrophysicist Mario Livio showed that Einstein possibly never said that .
+Instead of discarding Lambda , Einstein was continually experimenting with it .
+In late 2013 , Irish physicist Cormac O'Raifeartaigh , happened to discover a handwritten manuscript by Einstein which was since then overlooked by other scientists .
+The research paper was titled ' ' " Zum kosmologischen Problem " ' ' ( " About the Cosmological Problem " ) .
+And Einstein proposed a revision of his model , still with a cosmological constant , but now the constant was responsible for the creation of new matter as the universe expanded .

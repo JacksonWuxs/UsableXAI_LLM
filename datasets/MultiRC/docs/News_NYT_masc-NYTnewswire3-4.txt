@@ -1,0 +1,14 @@
+The factory is highly automated and designed to shift flexibly to produce many different kinds of chips to suit demand .
+" The diversity is the big difference with this plant , " said Richard Doherty , president of Envisioneering , a research firm .
+" It gives IBM the capability to make so many different kinds of custom chips , and the world is going to custom chips . "
+The 140,000-square - foot plant is a testament to advanced manufacturing technology .
+The 300-millimeter silicon wafers -- about the size of a standard pizza -- are shuttled around the facility in enclosed plastic pods , which ride on overhead tracks .
+They drop down from wires automatically into machines , sheathed in stainless steel and glass , for each stage of processing and fabrication .
+Throughout the 500 processing steps , which typically last 20 days , the wafers are not touched by human hands .
+The circuits etched into the chips are less than one thousandth the width of a human hair .
+Human operators are there to monitor the systems , catch errors and fine - tune the production process for maximum efficiency .
+Because each of the hundreds of processing machines is self - enclosed , and essentially airtight , the uniforms operators wear are less constricting than in the previous generation of chip plants , which looked like space suits .
+The operators at the East Fishkill factory wear light nylon uniforms , light blue shoe coverings and translucent hair nets made of paper .
+They look more like workers in a bakery .
+Yes , said Richard Brilla , director of the new facility , " but the donuts are a lot more costly here . "
+Each wafer , holding hundreds of chips , is worth $ 6,000 to $ 10,000 apiece , depending on what insulation , circuitry and materials are used .

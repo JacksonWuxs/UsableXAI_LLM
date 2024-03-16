@@ -1,0 +1,18 @@
+How can you describe your location ?
+You might use a familiar system .
+You might say , ' I live at 1234 Main Street , Springfield , Ohio . ' You could also say , ' I live right behind the Elementary School . ' This method uses the school as a point of reference .
+Another example is , I am at the corner of Maple Street and Main Street . Both streets may be a good reference for anyone living in your town .
+Scientists must be able to pinpoint a feature they are studying .
+Scientists use a special system to describe locations .
+They use latitude and longitude as a reference .
+Lines of latitude and longitude form a grid .
+You may have used a grid system while doing graphing .
+This grid is centered on a reference point .
+Zero latitude is the equator .
+Lines of latitude run east to west .
+They divide the Earth from North to South .
+Lines of longitude run from north to south .
+They divide the Earth from East to West .
+Zero longitude runs through Greenwich , England .
+You may have heard the term , Greenwich Mean Time , or GMT .
+The system of latitude and longitude works well for objects that do not move .

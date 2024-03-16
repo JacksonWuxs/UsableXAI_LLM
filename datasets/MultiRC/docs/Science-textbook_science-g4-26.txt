@@ -1,0 +1,18 @@
+Surely , you have noticed the tall poles along the roadside .
+Do you know what is on top of those poles ?
+That s right , wires that carry electric current .
+These wires carry electric current to your home .
+But what is electric current ?
+Electric current is actually the flow of electrons .
+You may recall , an electron is the outer - most particle in an atom .
+They have a negative charge .
+Electricity is the continuous flow of these particles .
+Electrons are able to move through wires .
+Their speed can even be measured .
+The SI unit for electric current ( or speed ) is the ampere ( A ) .
+Ampere is often shortened to amp .
+Electric current may flow in just one direction , or it may keep reversing direction .
+Direct current ( DC ) flows in only one direction .
+Direct current is what is used in devices like flashlights .
+Alternating current ( AC ) flows in two directions .
+This is the type of current that flows into your home through wires .

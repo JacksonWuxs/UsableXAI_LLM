@@ -1,0 +1,18 @@
+Force is a vector .
+What then is a vector ?
+Think about how you would give directions to a friend .
+You would not say , just walk half a mile .
+The person may walk a half mile in the wrong direction !
+More information is needed .
+You may say , follow this particular road for a half mile .
+You may say , look for the green house on Sumter St. In both examples , you provided a direction .
+You also gave the distance .
+In other words , you provided a vector .
+You did not just give a distance .
+Both pieces of information are needed to find a location .
+This is just like describing forces .
+To explain forces , both size and direction are needed .
+Notice the girl in Figure 1.1 .
+She is pushing the swing away from herself .
+That s the direction of the force .
+She can give the swing a strong push or a weak push .

@@ -1,0 +1,18 @@
+If you build a campfire , you start with a large stack of sticks and logs .
+As the fire burns , the stack slowly shrinks .
+By the end of the evening , all that is left is a small pile of ashes .
+What happened to the matter that you started with ?
+Was it destroyed by the flames ?
+It may seem that way .
+What do you think happened ?
+The truth is that the same amount of matter still exists .
+The wood changed not only to ashes , but also to carbon dioxide , water vapor , and other gases .
+The gases floated off into the air , leaving behind just the ashes .
+Although matter was changed , it was not created or destroyed .
+Because the same amount of matter still exists , we can say that matter is conserved .
+You may wonder how it can be conserved if something is now missing ?
+Assume you had measured the mass of the wood before you burned it .
+Assume you had also trapped the gases released by the burning wood and measured their mass and the mass of the ashes .
+What would you find ?
+The ashes and gases combined have the same mass as the wood you started with .
+This example illustrates the law of conservation of mass .

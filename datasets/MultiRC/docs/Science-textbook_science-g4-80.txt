@@ -1,0 +1,13 @@
+Speed is an important aspect of motion .
+It is a measure of how fast or slow something moves .
+To determine speed you must know two things .
+First , you must know how far something travels .
+Second , you need to know how long it takes to travel that far .
+Speed can be calculated using this formula : speed = distance time A familiar example is the speed of a car .
+In the U.S. , this is usually expressed in miles per hour .
+Think about a trip you and your family made in the car .
+Maybe the trip covered 120 miles and it took 3 hours .
+What was the cars speed ?
+speed = 120 mi = 40 mi / h 3h The speed of a car may also be expressed in kilometers per hour ( km / h ) .
+The SI unit for speed is meters per second ( m / s ) .
+This is the unit of measure a scientist would use .

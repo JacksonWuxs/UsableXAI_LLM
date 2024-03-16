@@ -1,0 +1,15 @@
+You might want to know how cold it is .
+You may need to know how fast the wind is blowing .
+Maybe it rained last night ?
+Do you know how much ?
+Does it feel humid to you ?
+You have heard all these questions before .
+To answer these questions , we need data .
+That data comes from special tools .
+These tools collect data about the weather .
+You can see some of the common tools listed below : A thermometer measures temperature .
+An anemometer measures wind speed .
+A rain gauge measures the amount of rain .
+A hygrometer measures humidity .
+A wind vane shows wind direction .
+A snow gauge measures the amount of snow .

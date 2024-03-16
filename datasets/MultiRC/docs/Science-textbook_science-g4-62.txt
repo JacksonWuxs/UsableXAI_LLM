@@ -1,0 +1,18 @@
+It is not enough to describe some objects by their location .
+We may also need to know its direction .
+For example , a wind blows a storm over your school .
+Where is that storm coming from ?
+Where is it going ?
+How can we describe a direction ?
+The most common way is by using a compass .
+A compass is a device with a floating needle ( Figure 2.1 ) .
+The needle is a small magnet .
+The needle aligns itself with the Earth 's magnetic field .
+The compass needle always points to magnetic north .
+If you have a compass and you find north .
+You can then know any other direction .
+See the directions , such as east , south , west , etc . , on a compass rose .
+The Earth has two poles .
+It has a magnetic north pole .
+It also has a geographic north pole .
+These two poles are close to each other but not the exact same place .
