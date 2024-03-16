@@ -270,7 +270,7 @@ def evaluation(dataset, dtype, seed, tokenizer):
 
 
 if __name__ == "__main__":
-    device = "cpu"
+    device = "cuda"
     results_path = r"./Results/vicuna_7b_v1.1/multiRC_"
     dataset_path = r"../../datasets/MultiRC/"
     data = MultiRCDataset(dataset_path)

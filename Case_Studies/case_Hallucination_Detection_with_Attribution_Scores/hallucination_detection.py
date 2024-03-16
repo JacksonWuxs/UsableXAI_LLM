@@ -163,7 +163,7 @@ def evaluation_vectara(dataset, explain_folder, tokenizer, seed):
         Y.append(1. if src[3] else 0.)
 
     X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.4, random_state=seed)
-    model = CrossEncoder('vectara/hallucination_evaluation_model', device="cpu")
+    model = CrossEncoder('vectara/hallucination_evaluation_model', device="cuda")
     Y_hat = 1. - model.predict(X_test)
     best_scores = classification_report(Y_hat, Y_test)
     print("Vectara P=%.4f | R=%.4f | F1=%.4f | Acc=%.4f" % best_scores)
