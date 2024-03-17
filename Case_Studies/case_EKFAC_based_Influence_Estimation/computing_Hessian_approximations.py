@@ -1,5 +1,5 @@
 # Author: Xuansheng Wu (wuxsmail@163.com) and Yaochen Zhu (uqp4qh@virginia.edu)
-# Last Modify: 2024-01-11
+# Last Modify: 2024-03-16
 # Description: Computing the EK-FAC approximated influence function over a corpus.
 import os
 import json
@@ -8,7 +8,6 @@ import argparse
 
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"
-#os.environ['CUDA_LAUNCH_BLOCKING'] = '1'
 
 import torch as tc
 
@@ -47,8 +46,8 @@ if __name__ == "__main__":
     root = f"/shared/user/xai"
 
     batch_size = 2
-    corpus = CorpusSearchIndex(os.path.join(root, "datasets/scifact/corpus.txt"))
-    generator = Generator(os.path.join(root, "models", f"pretrain_scifact_{model_name}", f"checkpoint-{chech_point}"), device="cuda")
+    corpus = CorpusSearchIndex("../../datasets/scifact/corpus.txt")
+    generator = Generator(f"./outputs/pretrain_scifact_{model_name}/checkpoint-{chech_point}"), device="cuda")
 
     if "gpt2" in model_name:
         hooker = MLPHookController.GPT2(generator._model)

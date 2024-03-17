@@ -70,8 +70,8 @@ if __name__ == "__main__":
     inf_root = os.path.join(root, "results", model_name)
     inf_estimator = InfluenceEstimator.load_from_disk(inf_root)
     
-    corpus = CorpusSearchIndex(os.path.join(root, "datasets/scifact/corpus.txt"))
-    generator = Generator(os.path.join(root, "models", f"pretrain_scifact_{model_name}", f"checkpoint-{chech_point}"), device="cuda")
+    corpus = CorpusSearchIndex("../../datasets/scifact/corpus.txt")
+    generator = Generator(f"./outputs/pretrain_scifact_{model_name}/checkpoint-{chech_point}", device="cuda")
 
     if "gpt2" in model_name:
         hooker = MLPHookController.GPT2(generator._model)
@@ -87,7 +87,6 @@ if __name__ == "__main__":
     
     # Loop over all the queries
     for i, sample in enumerate(corpus):
-        #sample = nltk.sent_tokenize(sample)
         sample = sentence_tokenize(sample)
         query, completion = u" ".join(sample[:3]).strip(), u" ".join(sample[3:]).strip()
         completion = generator.generate([query])[0]
